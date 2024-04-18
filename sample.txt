@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  int myArray[5];
+  char x;
+  for(i=0;i<10;i=i+1){
+    x = x + 1;
+  }
+
+  switch(choice) {
+        case 1:
+            x = x+1
+            break;
+        case 2:
+            break;
+        case 3:
+            break;
+    }
+}
